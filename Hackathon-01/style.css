@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+
+.Logo{
+    padding-bottom: 1em;
+    text-align: left;
+}
+header{
+text-align: right;
+
+}
+.a{
+    justify-content: space-between;
+}
+
